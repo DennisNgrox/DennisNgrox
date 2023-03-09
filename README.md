@@ -1,16 +1,28 @@
-### Hi there 👋
 
-<!--
-**DennisNgrox/DennisNgrox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center"><b>  I'm administrator Linux, Monitoring Consultant for Zabbix, Network Analyst and Security Analyst </b></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+ㅤ
+</p>
+
+- Tasks Automatization
+- Zabbix Specialist
+- Network troubleshooting
+- Security bug fixes
+- Programmer
+- Passionate about technology
+
+
+
+<p>
+ㅤ
+</p>
+<div>
+
+<img width=45 height=45 src="https://user-images.githubusercontent.com/81188924/223879567-203812c5-ee0e-4c23-80fb-f0b442dd031d.png" />
+<img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880016-f3a38d10-a687-4da4-b554-96e2aca453d3.png" />
+<img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880155-962e4063-8109-41b9-bf0f-b3c8ebd028a7.png" />
+
+</div>
