@@ -26,3 +26,11 @@
 <img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880155-962e4063-8109-41b9-bf0f-b3c8ebd028a7.png" />
 
 </div>
+
+<p>
+ㅤ
+</p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisNgrox&show_icons=true&theme=onedark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisNgrox&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+
