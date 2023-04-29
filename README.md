@@ -31,6 +31,5 @@
 ㅤ
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DennisNgrox&show_icons=true&theme=onedark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DennisNgrox&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
