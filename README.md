@@ -27,6 +27,9 @@
 <img width=50 height=50 src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Grafana_icon.svg/351px-Grafana_icon.svg.png" />
 <img width=50 height=50 src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <img width=50 height=50 src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-22.png" />
+<img width=50 height=50 src="https://icons-for-free.com/download-icon-ansible+red-1331550886153521193_512.png" />
+  
+  
 
 </div>
 
