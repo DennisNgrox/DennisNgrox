@@ -14,12 +14,11 @@
 - Programmer
 - Passionate about technology
 
-
-
-<p>
+ 
+<h1></h1>
 ㅤ
-</p>
-<div>
+
+<div align="center">
 
 <img width=45 height=45 src="https://user-images.githubusercontent.com/81188924/223879567-203812c5-ee0e-4c23-80fb-f0b442dd031d.png" />
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -34,9 +33,15 @@
 
 </div>
 
+<h1></h1>
 <p>
-ㅤ
+  
 </p>
 
+<p align="center">
+    <a href="https://github.com/tauz-hub/tauz-hub.git">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dennis" src="https://github-readme-streak-stats.herokuapp.com/?user=DennisNgrox&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
 
