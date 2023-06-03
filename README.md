@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/tauz-hub/tauz-hub.git">
+    <a href="https://github.com/DennisNgrox">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dennis" src="https://github-readme-streak-stats.herokuapp.com/?user=DennisNgrox&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
