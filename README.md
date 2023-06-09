@@ -13,7 +13,7 @@
 - Security bug fixes
 - Programmer
 - Passionate about technology
-- Tecnologies: Linux, Zabbix, Grafana, Cloud, Ansible, Shell, docker and others...
+- Tecnologies: Linux, Zabbix, Grafana, Cloud, Ansible, Shell, Docker and others...
 
 <p> ❤ Views and Followers</p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
