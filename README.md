@@ -34,6 +34,9 @@
 <img width=50 height=50 src="https://cdn-icons-png.flaticon.com/512/919/919853.png" />
 <img width=50 height=50 src="https://www.freeiconspng.com/thumbs/cloud-icon/cloud-icon-22.png" />
 <img width=50 height=50 src="https://icons-for-free.com/download-icon-ansible+red-1331550886153521193_512.png" />
+<img width=50 height=50 src="https://github.com/DennisNgrox/DennisNgrox/assets/81188924/70c533d3-45bc-4946-b7be-6f4633bb90e4" />
+
+
   
   
 
