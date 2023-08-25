@@ -1,6 +1,6 @@
 
 
-<p align="center"><b>  I'm administrator Linux, Monitoring Consultant for Zabbix, Network Analyst and Security Analyst </b></p>
+<p align="center"><b>  I'm administrator Linux, Monitoring Consultant Zabbix, Network Analyst and Security Analyst </b></p>
 
 <p>
 ㅤ
