@@ -8,7 +8,7 @@
 
 
 - Tasks Automatization
-- Zabbix Specialist
+- Zabbix Professional Certified
 - Network troubleshooting
 - Security bug fixes
 - Programmer
