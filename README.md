@@ -25,7 +25,7 @@
 ㅤ
 
 <div align="center">
-
+<img width=80 height=50 src="https://opentelemetry.io/img/social/logo-wordmark-001.png" />
 <img width=45 height=45 src="https://user-images.githubusercontent.com/81188924/223879567-203812c5-ee0e-4c23-80fb-f0b442dd031d.png" />
 <img width=50 height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img width=50 height=50 src="https://user-images.githubusercontent.com/81188924/223880016-f3a38d10-a687-4da4-b554-96e2aca453d3.png" />
